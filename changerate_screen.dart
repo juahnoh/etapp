@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-//아직 안만들어써요
+//요기는 아직 안만들어써요
 class changeRate extends StatelessWidget {
   const changeRate({super.key});
 
